@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="imageStyle">
+        <item name="android:layout_width">428dp</item>
+        <item name="android:layout_height">238dp</item>
+        <item name="android:layout_marginEnd">10dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">36dp</item>
+    </style>
+
+    <style name="buttonBack">
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginBottom">47dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">416dp</item>
+    </style>
+
+    <style name="buttonNext">
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginBottom">47dp</item>
+        <item name="android:layout_marginEnd">48dp</item>
+    </style>
+
+    <style name="Location">
+        <item name="android:layout_width">328dp</item>
+        <item name="android:layout_height">49dp</item>
+        <item name="android:layout_marginBottom">68dp</item>
+        <item name="android:layout_marginEnd">324dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+    </style>
+
+    <style name="Distance">
+        <item name="android:layout_width">268dp</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:layout_marginEnd">185dp</item>
+        <item name="android:layout_marginStart">29dp</item>
+    </style>
+
+    <style name="title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">52dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginBottom">236dp</item>
+    </style>
+</resources>
